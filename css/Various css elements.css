@@ -1,0 +1,44 @@
+.div1
+{
+border-radius:100px;
+background-color: cornsilk;
+border:5px solid deeppink;
+margin-top:15px;
+margin-bottom:15px;
+margin-left:2px;
+margin-right:2px;
+height:50px;
+width:99%;
+text-align:center;
+font-size:30px;
+font-style:bolder;
+color:darkorange;
+padding:5px;
+}
+#div2
+{
+border-radius:100px;
+background-color: rgb(232,240,200);
+border:15px solid deeppink;
+margin-top:15px;
+margin-bottom:15px;
+margin-left:2px;
+margin-right:2px;
+height:450px;
+width:50%;
+text-align:center;
+font-size:30px;
+font-style:bolder;
+color:tomato;
+padding:5px;
+}
+#div3
+{
+border:10px solid yellowgreen;
+color:violet;
+height:200px;
+margin:10px 10px 10px 10px;
+text-align:center;
+background-color:cornsilk;
+
+
